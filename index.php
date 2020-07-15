@@ -9,7 +9,7 @@ GOOO
 </button>
 </body>
 </html>
-<script>
+<script type="text/javascript">
 function myfunction(){
     alert ("i know");
 }

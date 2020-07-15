@@ -4,9 +4,9 @@ echo "Yes I know!!!";
 <html>
 <head></head>
 <body>
-<div onlick="myfucntion()">
+<button onlick="myfucntion()">
 GOOO
-</div>
+</button>
 </body>
 </html>
 <script>

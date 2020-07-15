@@ -4,7 +4,7 @@ echo "Yes I know!!!";
 <html>
 <head></head>
 <body>
-<button onlick="myfucntion()">
+<button onlick="myfunction()">
 GOOO
 </button>
 </body>
